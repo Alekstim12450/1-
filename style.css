@@ -1,0 +1,36 @@
+.r {
+border: 1px solid black;
+display: flex;
+padding: 40 px;
+flex-direction: row;
+justify-content: space-around;
+color: black;
+}
+.q {
+    color: black;
+}
+.w {
+    color: black;
+}
+.lala { 
+display: flex;
+justify-content: cente;
+}
+.qaqa {
+    display: flex;
+    justify-content: left;  
+}
+.qaqa {
+    border: 1px solid black;
+    display: flex;
+    padding: 40 px;
+    flex-direction: row;
+    justify-content: center;
+    }
+.One {
+    border: 1px solid black;
+    display: flex;
+    padding: 40 px;
+    flex-direction: row;
+    justify-content: center;
+}
