@@ -5,6 +5,7 @@ padding: 40 px;
 flex-direction: row;
 justify-content: space-around;
 color: black;
+background-color: blue;
 }
 .q {
     color: black;
@@ -14,7 +15,8 @@ color: black;
 }
 .lala { 
 display: flex;
-justify-content: cente;
+justify-content: center;
+border: 1px solid black;
 }
 .qaqa {
     display: flex;
@@ -33,4 +35,11 @@ justify-content: cente;
     padding: 40 px;
     flex-direction: row;
     justify-content: center;
+}
+body {
+    background-color: aqua;
+}
+.yyy { 
+    width: 1980px;
+    height: 900px;
 }
